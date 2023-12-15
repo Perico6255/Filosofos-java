@@ -7,12 +7,18 @@ Solución Implementada
 
 
 ## Instrucciones
-### 1. Clonar repositorio
+#### 1. Clonar repositorio
+- ssh
 ```
-git clone https://github.com/tu-usuario/cena-de-los-filosophos.git
-cd cena-de-los-filosophos
+git clone git@github.com:Perico6255/Filosofos-java.git 
+cd Filosofos-java
 ```
-### 1. Clonar repositorio
+- http
+```
+git clone https://github.com/Perico6255/Filosofos-java.git
+cd Filosofos-java
+```
+#### 2. Compilar y ejecutar el programa 
 Puede utilizar un IDE que ejecute el programa o en su defecto puede ejecutar las siguientes lineas de comando 
 ```
 javac -d bin src/Chopstick.java src/DiningTest.java src/Philosopher.java
